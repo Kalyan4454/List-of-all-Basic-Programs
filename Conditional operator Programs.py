@@ -1,9 +1,9 @@
 '''
-16 Write a C program to find maximum between two numbers using conditional/ternary operator.
-17 Write a C program to find maximum between three numbers using conditional/ternary operator.
-18 Write a C program to check whether a number is even or odd using conditional/ternary operator.
-19 Write a C program to check whether year is leap year or not using conditional/ternary operator.
-20 Write a C program to check whether character is an alphabet or not using conditional/ternary operator.
+16 Write a program to find maximum between two numbers using conditional/ternary operator.
+17 Write a program to find maximum between three numbers using conditional/ternary operator.
+18 Write a program to check whether a number is even or odd using conditional/ternary operator.
+19 Write a program to check whether year is leap year or not using conditional/ternary operator.
+20 Write a program to check whether character is an alphabet or not using conditional/ternary operator.
 '''
 
 '''a,b=int(input()),int(input())
