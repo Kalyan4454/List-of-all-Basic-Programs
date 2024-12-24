@@ -31,7 +31,6 @@ n=int(input())
 while(i<=n):
     print(i,end=" ")
     i=i+1'''
-from tempfile import tempdir
 
 '''n=int(input())
 while(n>=1):
