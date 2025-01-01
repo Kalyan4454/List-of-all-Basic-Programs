@@ -1,3 +1,5 @@
+https://prepinsta.com/pattern-programs-tutorial/#4
+
 '''
 n=5
 for i in range(0,n):
