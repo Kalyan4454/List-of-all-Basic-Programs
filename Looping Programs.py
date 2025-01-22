@@ -23,8 +23,8 @@
 45 Write a  program to check whether a number is Armstrong number or not.
 46 Write a  program to check whether a number is Perfect number or not.
 47 Write a  program to check whether a number is Strong number or not.
-48 Write a  program to print Fibonacci series up to n terms.'''
-
+48 Write a  program to print Fibonacci series up to n terms.
+49.Write a  program gcd of two strings'''
 
 '''i=1
 n=int(input())
@@ -329,5 +329,20 @@ while(n3<=x):
     n1=n2
     n2=n3
     n3=n1+n2
+'''
+
+'''
+class Solution(object):
+    def gcdOfStrings(self, str1, str2):
+        a = len(str1)
+        b = len(str2)
+        while b != 0:
+            temp = b
+            b = a % b
+            a = temp
+        if str1 + str2 != str2 + str1:
+            return ""
+        else:
+            return str1[:a] 
 '''
 
